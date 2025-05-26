@@ -16,7 +16,7 @@ export function Location() {
           alt="location1"
           className="object-cover"
           fill
-          src={"/location1.jpg"}
+          src={"/location1.png"}
         />
       </div>
       <div className="relative h-[60px]">
@@ -24,7 +24,7 @@ export function Location() {
           alt="location2"
           className="object-cover"
           fill
-          src={"/location2.jpg"}
+          src={"/location2.png"}
         />
       </div>
     </div>
